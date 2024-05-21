@@ -1,1 +1,1 @@
-![CI](https://github.com/PavelSobyanin/DZ-7-HTTP/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/vfi6f4o2a8yimcjn?svg=true)](https://ci.appveyor.com/project/PavelSobyanin/dz-7-http)
